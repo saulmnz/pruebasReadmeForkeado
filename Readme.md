@@ -1,16 +1,19 @@
-# <span style="color:pink">He FORKEADO el README de DAMIAN </span> :fire:
+<h1 style="color:pink">He FORKEADO el README de DAMIAN </h1> :fire:
 
 ## *Pasos para realizar el FORK:*
 
 1. **Ir al repositorio el cual queremos hacerle FORK**
 
-2. **Copiar el enlace del repositorio**
+2. **Clicar en "Fork" "Create new fork"**
 
-3. **Abrir una terminal y realizar el comando, `git clone "enlace.github"`**
+   ![img.png](img.png)
 
-4. **Abrir el repositorio clonado (Es un repositorio forkeado clonado)**
+3. **Copiar el enlace del repositorio al que se le ha hecho fork**
 
-5. **Para realizar commits and push en este archivo clonado forkeado tendremso que configurar los remotos ya que por defecto estará el origin con el enlace al archivo del cual hemos hecho fork**
+4. **Abrir una terminal y realizar el comando, `git clone "enlacedelrespositorioforkeado.github"`**
 
-6. **Crear un nuevo remoto con otro nombre y copiando y pegando el enlace del repositorio previamente forkeado en nuestro perfil de github**
+5. **Abrir el repositorio clonado (Es un repositorio forkeado clonado)**
 
+6. **Para realizar commits and push en este archivo clonado forkeado tendremso que configurar los remotos ya que por defecto estará el origin del archivo al cual hemos hecho fork**
+
+7. **Crear un nuevo remoto con otro nombre y copiando y pegando el enlace del repositorio previamente forkeado en nuestro perfil de github**
