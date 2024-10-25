@@ -8,7 +8,7 @@
 
    ![img.png](img.png)
 
-3. **Copiar el enlace del repositorio al que se le ha hecho fork**
+3. **Copiar el enlace en nuestro perfil del repositorio al que se le ha hecho fork**
 
 4. **Abrir una terminal y realizar el comando, `git clone "enlacedelrespositorioforkeado.github"`**
 
