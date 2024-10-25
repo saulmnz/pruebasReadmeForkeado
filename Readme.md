@@ -14,6 +14,6 @@
 
 5. **Abrir el repositorio clonado (Es un repositorio forkeado clonado)**
 
-6. **Para realizar commits and push en este archivo clonado forkeado tendremso que configurar los remotos ya que por defecto estará el origin del archivo al cual hemos hecho fork**
+6. **Para realizar commits and push en este archivo clonado forkeado tendremos que configurar el remoto añadiendo un nuevo remoto**
 
-7. **Crear un nuevo remoto con otro nombre y copiando y pegando el enlace del repositorio previamente forkeado en nuestro perfil de github**
+7. **Crear un nuevo remoto con otro nombre, copiando y pegando el enlace del repositorio forkeado en nuestro perfil de github**
