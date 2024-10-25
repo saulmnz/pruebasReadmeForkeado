@@ -1,4 +1,4 @@
-<h1 style="color:pink">He FORKEADO el README de DAMIAN </h1> :fire:
+<h1 style="color:pink">He FORKEADO el README de DAMIAN :fire: </h1> 
 
 ## *Pasos para realizar el FORK:*
 
